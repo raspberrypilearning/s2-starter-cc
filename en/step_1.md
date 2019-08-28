@@ -1,58 +1,46 @@
-## Introduction
+## Starter
 
-Add project description here. What will learners be making?
+There are 3 sections in the Starter:
+1. Pre-Module Survey
+2. Animation: Skills in careers that involve Computing
+3. Game: Skills Sorting
 
-### What you will make
+Please make sure you complete all of the activities and tick them off as you complete them.
 
---- no-print ---
-Add instructions for using the embedded content here.
+### 1. Pre-Module Survey
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- task ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Please complete this pre-module survey before you start the module:
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+<script id="ss-embed-734054">(function(d,w){var s,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=627146&c=734054';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script>
 
-+ Describe hardware here
+--- /task ---
 
-### Software
+### 2. Animation: Skills in careers that involve Computing
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- task ---
 
-### Downloads
+Click on the green flag to begin the animation on skills in careers that involve Computing.
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+You can watch the animation as a group or on your own.
 
---- /collapse ---
+Either read the text or, if you’ve got access to sound, you can also listen to a narration of the text.
 
---- collapse ---
----
-title: What you will learn
----
+Tick off the activity when you have completed it.
 
-+ Two or three learning objectives
-+ ...should go here
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 
---- /collapse ---
+--- /task ---
 
---- collapse ---
----
-title: Additional information for educators
----
+### 3. Game: Skills Sorting
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+--- task ---
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+Click on the green flag to begin the Skills Sorting game. As with all activities, tick it off when you have completed it.
 
---- /collapse ---
+Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
+
+If you have a Scratch account click this link to log in and play the Skills Sorting Game - [link to the specific module - we're gathering data on what game they complete]. If you don't have a Scratch account, click this link to play the Skills Sorting Game [version without clouds]
+
+--- /task ---
