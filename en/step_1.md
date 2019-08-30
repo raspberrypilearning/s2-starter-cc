@@ -37,10 +37,10 @@ Tick off the activity when you have completed it.
 
 --- task ---
 
-Click on the green flag to begin the Skills Sorting game. As with all activities, tick it off when you have completed it.
+If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271674) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting Game. Click on the green flag to begin the Skills Sorting game. 
+
+As with all activities, tick it off when you have completed it.
 
 Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
-
-If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271674) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting Game.
 
 --- /task ---
