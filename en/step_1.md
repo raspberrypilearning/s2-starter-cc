@@ -29,7 +29,7 @@ Either read the text or, if you’ve got access to sound, you can also listen to
 
 Tick off the activity when you have completed it.
 
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://scratch.mit.edu/projects/325793079/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 --- /task ---
 
