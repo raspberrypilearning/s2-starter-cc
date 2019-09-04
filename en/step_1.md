@@ -27,6 +27,8 @@ You can watch the animation as a group or on your own.
 
 Tick off the activity when you have completed it.
 
+Click the image to play the animation:
+
 <a href="https://scratch.mit.edu/projects/325793079">
 <img src="images/animation.png">
 
