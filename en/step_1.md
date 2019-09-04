@@ -25,8 +25,6 @@ Click on the green flag to begin the animation on skills in careers that involve
 
 You can watch the animation as a group or on your own.
 
-Either read the text or, if you’ve got access to sound, you can also listen to a narration of the text.
-
 Tick off the activity when you have completed it.
 
 <iframe src="https://scratch.mit.edu/projects/325793079/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
