@@ -48,7 +48,7 @@ As with all activities, tick this activity off when you have completed it.
 
 Click on the ‘Click me’ button below to go back to the Scratch 2 Module pathway to begin the projects:
 
-<a href="https://codeclub.org/en/projects-cc">
+<a href="https://codeclub.org/en/scratch2">
 <img src="images/Clickme.png">
 
 
