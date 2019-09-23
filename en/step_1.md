@@ -17,6 +17,8 @@ Please complete this pre-module survey before you start the module:
 
 --- /task ---
 
+<iframe src="http://www.smartsurvey.co.uk/s/728ZI/" style="width:100%;height:400px;border:0px;padding-bottom:4px;" frameborder="0"></iframe>
+
 ### 2. Animation: Skills in careers that involve Computing
 
 --- task ---
