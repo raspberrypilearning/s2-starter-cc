@@ -13,7 +13,7 @@ Please make sure you complete all of the activities and tick them off as you com
 
 Please complete this pre-module survey before you start the module:
 
-<script id="ss-embed-755337">(function(d,w){var s,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=642584&c=755337';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script><div>Create your own online surveys with <a href="https://www.smartsurvey.co.uk">SmartSurvey</a>.</div>
+<iframe src="http://www.smartsurvey.co.uk/s/728ZI/" style="width:100%;height:400px;border:0px;padding-bottom:4px;" frameborder="0"></iframe>
 
 --- /task ---
 
