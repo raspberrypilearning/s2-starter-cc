@@ -1,9 +1,10 @@
+---
 title: Starter
 hero_image: images/banner.png
 description: s2-starter-cc description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2019-08-28"
+last_tested: '2019-08-28'
 steps:
-  - title: Starter
+- title: Starter
